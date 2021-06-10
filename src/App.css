@@ -1,0 +1,33 @@
+.oldcard_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.App {
+  margin: 0 auto;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  text-align: center;
+}
+
+.oldcard {
+  margin: 0px 10px 0px 10px;
+}
+
+.scoreboard {
+  margin: 10px 0;
+  font-size: 50px;
+}
+
+.losetext {
+  font-size: 50px;
+}
